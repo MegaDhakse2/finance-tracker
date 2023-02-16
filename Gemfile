@@ -33,7 +33,9 @@ gem 'webpacker', '~> 5.4', '>= 5.4.4'
 gem "devise"
 gem 'devise-bootstrap-views', '~> 1.1'
 gem 'iex-ruby-client'
-
+gem 'rest-client'
+gem 'json', '~> 2.6', '>= 2.6.3'
+gem 'ostruct', '~> 0.5.5'
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
 
